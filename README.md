@@ -60,3 +60,7 @@ The chart below shows quarterly turnover vs. target (8):
 cd scripts
 python analyze_inventory.py
 ```
+
+---
+
+_This branch contains the PR version of the analysis._

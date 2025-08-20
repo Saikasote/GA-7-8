@@ -36,3 +36,4 @@ plt.tight_layout()
 # Save and show
 plt.savefig("inventory_turnover.png", dpi=300)
 plt.show()
+# is this change ok
